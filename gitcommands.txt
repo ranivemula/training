@@ -1,0 +1,38 @@
+ git clone git@github.com:ranivemula/training.git
+  486  cd training/
+  487  touch vishnu.txt
+  488  vi vishnu.txt
+  489  cat vishnu.txt
+  490  git add vishnu.txt
+  491  git commit -m " we are here"
+  492  git push
+  493  ls
+  494  git checkout -b feature1
+  495  ls
+  496  touch frontend.html
+  497  vi frontend.html
+  498  clear
+  499  git status
+  500  git add frontend.html
+  501  git status
+  502  git commit -m "added front html file"
+  503  git status
+  504  git push
+  505  git push origin feature1
+  506  git branch
+  507  git pull
+  508  git branch
+  509  git branch -a
+  510  git log
+  511  git checkout
+  512  git checkout feature2
+  513  git status
+  514  git pull
+  515  git checkout main
+  516  git pull origin
+  517  ls
+  518  git merge feature2
+  519  ls
+  520  git push origin
+  521  git log
+  522  history

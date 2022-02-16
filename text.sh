@@ -1,3 +1,3 @@
 #!/bin/bash eklfefn,v
-dginidsogj
-dgljjpoejope
+echo dginidsogj
+echo dgljjpoejope
